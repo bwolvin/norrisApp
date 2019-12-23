@@ -2,5 +2,5 @@
 Chuck Norris Joke Generator App
 
 
-npm install
+npm install <br/>
 npm run start
